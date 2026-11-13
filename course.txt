@@ -1,0 +1,4 @@
+Course: Computer Science
+Subject: Programming in C
+College: IIIT Kottayam
+Year: 2026
